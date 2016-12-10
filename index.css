@@ -1,0 +1,11 @@
+p {
+    font-size: 30px;
+    font-family: 'Sans-serif', serif;
+    margin: 0 auto;
+    position: relative;
+    text-align: center;
+    background-color: lightyellow;
+    color: green;
+    text-shadow: 2px 1px 1px gray;
+    
+}
